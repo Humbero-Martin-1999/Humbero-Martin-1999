@@ -10,8 +10,7 @@
 </pre>
 </div>
 
-#  Etudiante 🧑🏼‍🎓 de Ingenieria en TICS del Instituto Tecnologico de Aguascalientes 🇲🇽
-
+# Estudiante 🧑🏼‍🎓 de Ingeniería en TICs del Instituto Tecnológico de Aguascalientes 🇲🇽
 
 
 ![Mis Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Humbero-Martin-1999&show_icons=true&theme=tokyonight&count_private=true)
